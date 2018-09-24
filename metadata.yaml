@@ -1,11 +1,16 @@
 _repo: Fossil-Butterflies-Memoirs-of-the-American-Association-for-the-Advancement-of-Science-I_56004
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56004-h/images/cover.jpg
 creator:
   author:
     agent_name: Scudder, Samuel H.
     gutenberg_agent_id: '48619'
     url: http://www.gutenberg.org/2009/agents/48619
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56004#Fossil-Butterflies-Memoirs-of-the-American-Association-for-the-Advancement-of-Science-I
 gutenberg_issued: '2017-11-19'
 gutenberg_type: Text
 identifiers:
